@@ -1,0 +1,9 @@
+{
+    "url": "https://deluxe-tapioca-5f66be.netlify.app/test.yaml",
+    "urls": [
+        {
+            "url": "https://deluxe-tapioca-5f66be.netlify.app/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
